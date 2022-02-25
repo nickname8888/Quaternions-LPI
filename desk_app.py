@@ -1,9 +1,12 @@
 from tkinter import *
 
+c = 0
 
 def exec_code():
     print("Running code...")
-
+    global c
+    c = c+1
+    print(c)
 
 root = Tk()
 root.geometry("1400x700")
