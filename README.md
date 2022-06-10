@@ -2,7 +2,7 @@
 
 ## Our Goal 
 
-![pipeline diagram](https://www.researchgate.net/profile/Zain-Masood-4/publication/315489495/figure/fig3/AS:900203120967681@1591636557193/Figure-shows-some-results-of-our-end-to-end-license-plate-detection-and-recognition.png)
+![pipeline diagram](https://www.innominds.com/hs-fs/hubfs/Innominds-201612/img/IM%20Inner%20Pages/ANPR/what-is-anpr.png?width=462&name=what-is-anpr.png)
 
 * The objective is to create a license plate identification system that works in real time. As the population in India keeps growing day by day, so does our traffic. The current solution of Fastag identification is nowhere near fast enough and requires cars to come to a complete stop. 
 * Our job here is to implement a working solution that identifies number plates from moving cars, whether they are in different formats or languages, in real-time, such that the cars won’t need to stop and traffic keeps moving.
