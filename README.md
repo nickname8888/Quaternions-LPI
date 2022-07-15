@@ -7,6 +7,12 @@
 * The objective is to create a license plate identification system that works in real time. As the population in India keeps growing day by day, so does our traffic. The current solution of Fastag identification is nowhere near fast enough and requires cars to come to a complete stop. 
 * Our job here is to implement a working solution that identifies number plates from moving cars, whether they are in different formats or languages, in real-time, such that the cars won’t need to stop and traffic keeps moving.
 
+## Contributors 
+- Neeraj Nerkar 
+- Rugved Pandit
+- Rishi Tank
+- Parmesh Walunj 
+
 ## Our Approach 
 <img src="https://drive.google.com/uc?export=view&id=1Zs-6ryQgT0zWlLSqyqbuHFETK13SqBbY" width="396" height="514">
 
@@ -22,3 +28,4 @@ User Dashboard
 
 Marathi Language Support
 <img width="1436" alt="Screenshot 2022-06-10 at 9 41 59 AM" src="https://user-images.githubusercontent.com/61390825/172995920-ebaf4882-9e61-485f-a020-6203bc549b94.png">
+
